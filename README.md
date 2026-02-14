@@ -51,11 +51,21 @@ GRANT CONNECT, RESOURCE, DBA TO kevin_plsqlauca_28746;
 
 <img width="693" height="235" alt="create pluggable database step1" src="https://github.com/user-attachments/assets/8988f849-3efe-4ac1-b0cb-0787edc34f09" />
 
+
+
 <img width="1056" height="176" alt="alter session step1" src="https://github.com/user-attachments/assets/22e0a09c-edf7-478a-808b-5a2f1d8f41fe" />
+
+
+
 
 <img width="1021" height="161" alt="alter pluggable database step1" src="https://github.com/user-attachments/assets/353d8d77-4aee-4106-a2d3-8946aa0deccb" />
 
+
+
 <img width="1501" height="204" alt="create user" src="https://github.com/user-attachments/assets/751486b8-2f11-4990-b5a7-fc340e4ab2af" />
+
+
+
 
 <img width="1401" height="201" alt="grant session to user" src="https://github.com/user-attachments/assets/7e386723-5860-4959-b20e-6b1d73255c11" />
 
@@ -84,9 +94,22 @@ DROP PLUGGABLE DATABASE kv_to_delete_pdb_28746 INCLUDING DATAFILES;
 
 <img width="1525" height="261" alt="create pluggable delete step2" src="https://github.com/user-attachments/assets/82b2f3e1-993b-4212-898b-d672394d7548" />
 
+
+
+
+
+
 <img width="1809" height="113" alt="pluggable database open step2" src="https://github.com/user-attachments/assets/1a8de3d5-f307-42cd-8bda-60a63ef33e9d" />
 
+
+
+
+
 <img width="1903" height="204" alt="pluggable database close step2" src="https://github.com/user-attachments/assets/25d7963b-d0d0-425e-87a4-da766f39dedc" />
+
+
+
+
 
 <img width="1855" height="202" alt="drop pluggable database step2" src="https://github.com/user-attachments/assets/9641bd8b-e666-4ab5-9034-ef2f1111aa10" />
 
